@@ -1,17 +1,17 @@
 Snake Game TODOs
 A rough outline if what we need to cover during the game: 
-- [ ] Create board 
+- [x] Create board 
     - matrix representation (2-D array)
-- [ ] Create snake 
-    - [ ] Singly LinkedList representation of snake 
+- [x] Create snake 
+    - [x] Singly LinkedList representation of snake 
     - [ ] Handle snake growth (adding node to linkedlist)
     - [ ] handle snake direction reversal (randomly snake revereses it directio, reversing linkedlist legitmetnyl used here)
-- [ ] Styles
-    - [ ] snake cells (movement of snake through the board)
-    - [ ] food cells
-- [ ] Handle keypresses
+- [x] Styles
+    - [x] snake cells (movement of snake through the board)
+    - [x] food cells
+- [x] Handle keypresses
 - [ ] Handle movements
-- [ ] Handle food constipation
+- [x] Handle food constipation
 - [ ] Handle death (go out of bounds, hit a wall, eat oursevles )
 - [ ] Handle score (counter)
 - [ ] Handle game start and game reset (handling start, resetting the game)
